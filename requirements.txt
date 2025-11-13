@@ -4,6 +4,7 @@ folium
 Pillow
 streamlit-autorefresh
 streamlit-geolocation
+streamlit-js-eval
 pandas
 requests
 numpy
