@@ -5,5 +5,6 @@ Pillow
 streamlit-autorefresh
 streamlit-geolocation
 pandas
-numpy
 requests
+numpy
+
